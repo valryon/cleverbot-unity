@@ -6,6 +6,8 @@ Based on [https://github.com/velddev/Cleverbot.Net](https://github.com/velddev/C
 
 You must have an API key to test.
 
+![screenshot.png](screenshot.png)
+
 # Dependency
 
 - [JSON.NET for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)
